@@ -1,5 +1,9 @@
 👨‍💻 Face Attendance System using Python
 
+Developed By
+
+Rajiv Ranjan Singh
+
 Face Attendance System (OpenCV)
 
 This project is a simple Face Attendance System built using Python and OpenCV.
