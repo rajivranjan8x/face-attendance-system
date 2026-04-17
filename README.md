@@ -1,2 +1,29 @@
-# face-attendance-system
-A real-time Face Attendance System built using Python, OpenCV, and Flask.It uses webcam-based face detection to automatically mark attendance and stores records in a CSV file with name, date, and time. The project also includes a simple web dashboard to view attendance records.
+# Face Attendance System (OpenCV)
+
+This project is a simple Face Attendance System built using Python and OpenCV.
+
+## Features
+- Real-time face detection using webcam
+- Automatic attendance marking
+- CSV file storage (Name, Date, Time)
+- Web dashboard using Flask
+
+## Tech Stack
+- Python
+- OpenCV
+- Flask
+
+## How to Run
+1. Install dependencies:
+   pip install opencv-python flask
+
+2. Run the project:
+   python app.py
+
+3. Open in browser:
+   http://127.0.0.1:5000/
+
+## Output
+- Live camera feed
+- Face detection
+- Attendance dashboard
